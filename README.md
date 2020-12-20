@@ -3,7 +3,7 @@
 
 
 
-### Hi there 👋, my name is Swapnil Zambare
+### Hi there, my name is Swapnil Zambare
 #### I am Front End Developer | PHP Developer | CodeIgniter
 
 My Skills:
@@ -24,6 +24,6 @@ Skills: HTML / CSS / Bootstrap / JavaScript / AJAX / PHP / CodeIgniter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theswapnilzambare)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=theswapnilzambare&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theswapnilzambare&show_icons=true)   -->
 
 ![Profile views](https://gpvc.arturio.dev/theswapnilzambare)  
