@@ -1,5 +1,5 @@
 
-![I am Front End Developer | PHP Developer | CodeIgniter](https://github.com/theSwapnilZambare/theswapnilzambare/blob/main/Header.jpg)
+![I am Front End Developer | PHP Developer | CodeIgniter](https://github.com/theSwapnilZambare/theswapnilzambare/blob/main/header.png)
 
 
 
