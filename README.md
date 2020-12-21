@@ -7,7 +7,7 @@
 #### I am Front End Developer | PHP Developer | CodeIgniter Developer
 
 My Skills:
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>]HTML, [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>]CSS, Bootstrap, JavaScript, jQuery, AJAX
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='10'>]HTML, [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='10'>]CSS, Bootstrap, JavaScript, jQuery, AJAX
 - Core PHP - MySQL Development
 - Wordpress Development
 - CodeIgniter framework
