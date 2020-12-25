@@ -16,7 +16,6 @@ My Skills:
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='android' height='10'>] Android Development
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='android' height='10'>] Android and [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='10'>] PHP MySQL with Dynamic JSON [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/json.svg' alt='json' height='10'>]
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='10'>] Cloud Computing (AWS)
-- Cyber Security
 
 
 
