@@ -40,3 +40,7 @@ My Skills:
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theswapnilzambare&show_icons=true)   -->
 
 <!-- ![Profile views](https://gpvc.arturio.dev/theswapnilzambare)     -->
+
+
+
+<p align='left'><img src='https://visitor-badge.laobi.icu/badge?page_id=theSwapnilZambare'></p>
