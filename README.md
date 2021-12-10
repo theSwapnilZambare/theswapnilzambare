@@ -3,7 +3,7 @@
 
 
 
-## <img src="./gifs/man_raising_hand.gif" width="40px"/>  Hi there, my name is Swapnil Zambare
+##   Hi there, my name is Swapnil Zambare
 
 #### I am Full Stack Developer | PHP Developer | CodeIgniter Developer | Laravel Developer
 
