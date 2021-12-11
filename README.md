@@ -18,7 +18,7 @@
 </p>
 
 
-<img src="./gifs/man_raising_hand.gif" width="40px"/> My Skills:
+<img src="./img/man_raising_hand.gif" width="40px"/> My Skills:
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='10'>] HTML, [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='10'>] CSS
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='bootstrap' height='10'>] Bootstrap , [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='10'>] JavaScript, jQuery, AJAX
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php Developer' height='10'>] Core PHP - MySQL Development
