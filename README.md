@@ -1,10 +1,10 @@
-![I am Front End Developer | PHP Developer | CodeIgniter](https://github.com/theSwapnilZambare/theswapnilzambare/blob/main/img/header.png)
+![I am  Salesforce Developer | Salesforce Admin | Front End Developer | PHP Developer | CodeIgniter](https://github.com/theSwapnilZambare/theswapnilzambare/blob/main/img/header.png)
 
 
 
 ##   Hi there, my name is Swapnil Zambare
 
-#### I am Full Stack Developer | PHP Developer | CodeIgniter Developer | Laravel Developer
+#### I am Salesforce Developer | Salesforce Admin | Full Stack PHP Developer
 
 
 <p align="left">
@@ -17,6 +17,7 @@
 
 
 <img src="./img/man_raising_hand.gif" width="30px"/> My Skills:
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/salesforce.svg' alt='Salesforce Developer' height='10'>] Salesforce Developer
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='10'>] HTML, [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='10'>] CSS
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='bootstrap' height='10'>] Bootstrap , [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='10'>] JavaScript, jQuery, AJAX
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php Developer' height='10'>] Core PHP - MySQL Development
