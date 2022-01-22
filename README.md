@@ -26,7 +26,6 @@
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeigniter.svg' alt='codeigniter Developer' height='10'>] CodeIgniter framework
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg' alt='Laravel Developer' height='10'>] Laravel framework
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='Android' height='10'>] Android Development
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='Android PHP MySQL with Dynamic JSON' height='10'>] Android and [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='10'>] PHP MySQL with Dynamic JSON [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/json.svg' alt='json' height='10'>]
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='10'>] Cloud Computing (AWS)
 
 
