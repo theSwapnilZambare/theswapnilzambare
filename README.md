@@ -1,4 +1,4 @@
-![I am  Salesforce Developer | Salesforce Admin | Front End Developer | PHP Developer | CodeIgniter]
+
 <!--(https://github.com/theSwapnilZambare/theswapnilzambare/blob/main/img/header.png) -->
 
 
