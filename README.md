@@ -1,10 +1,12 @@
-![I am  Salesforce Developer | Salesforce Admin | Front End Developer | PHP Developer | CodeIgniter](https://github.com/theSwapnilZambare/theswapnilzambare/blob/main/img/header.png)
+![I am  Salesforce Developer | Salesforce Admin | Front End Developer | PHP Developer | CodeIgniter]
+<!--(https://github.com/theSwapnilZambare/theswapnilzambare/blob/main/img/header.png) -->
 
 
 
 ##   Hi there, my name is Swapnil Zambare
 
-#### I am Salesforce Developer | Salesforce Admin | Full Stack PHP Developer
+#### I am 1x Trailhead Ranger | 3x Superbadges | 130+ Badges
+## Salesforce Developer | Salesforce Administrator
 
 
 <p align="left">
@@ -23,10 +25,7 @@
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='10'>] HTML, [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='10'>] CSS
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='bootstrap' height='10'>] Bootstrap , [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='10'>] JavaScript, jQuery, AJAX
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php Developer' height='10'>] Core PHP - MySQL Development
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress Developer' height='10'>] Wordpress Development
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeigniter.svg' alt='codeigniter Developer' height='10'>] CodeIgniter framework
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/laravel.svg' alt='Laravel Developer' height='10'>] Laravel framework
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='10'>] Cloud Computing (AWS)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg' alt='amazonaws' height='10'>] Cloud Computing (Salesforce | AWS)
 
 
 
