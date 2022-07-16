@@ -19,6 +19,8 @@
 <img src="./img/man_raising_hand.gif" width="30px"/> My Skills:
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/salesforce.svg' alt='Salesforce Developer' height='10'>] Salesforce Developer
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/salesforce.svg' alt='Salesforce Admin' height='10'>] Salesforce Administrator
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/salesforce.svg' alt='APEX, Asynchronous Apex, Triggers' height='10'>] APEX, Asynchronous Apex, Triggers
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/salesforce.svg' alt='Lightning Web Components (LWC)' height='10'>] Lightning Web Components (LWC)
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='10'>] HTML, 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='10'>] CSS
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='bootstrap' height='10'>] Bootstrap , 
