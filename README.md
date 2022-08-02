@@ -5,6 +5,8 @@
 
 ##   Hi there, my name is Swapnil Zambare
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 #### I am Certified Salesforce Developer | Double Star Trailhead Ranger | 3x Superbadges | 250+ Badges
 ## Salesforce Developer | Salesforce Administrator
 
