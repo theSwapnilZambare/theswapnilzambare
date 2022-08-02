@@ -1,17 +1,16 @@
 
 <!--(https://github.com/theSwapnilZambare/theswapnilzambare/blob/main/img/header.png) -->
 
-#   Hi there, my name is Swapnil Zambare
+   Hi there, my name is Swapnil Zambare
 <!-- #### I am Certified Salesforce Developer | Double Star Trailhead Ranger | 3x Superbadges | 250+ Badges -->
-# Salesforce Developer | Salesforce Administrator
-
+ Salesforce Developer | Salesforce Administrator
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Certified+Salesforce+Developer;Double+Star+Trailhead+Ranger;Trailhead+3x+Superbadges)](https://git.io/typing-svg)
 
-<p align="left">
-<!-- <a href="https://theswapnilzambare.github.io/" target="_blank" ><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<!-- <p align="left">
+<a href="https://theswapnilzambare.github.io/" target="_blank" ><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/theswapnilzambare" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>  <a href="https://twitter.com/swapnilzambare7" target="_blank" ><img src="https://img.shields.io/badge/-Twitter_-blue?style=flat&logo=Twitter&logoColor=white"/></a>
-</a> -->
-</p>
+</a>
+</p> -->
 
 
 <img src="./img/man_raising_hand.gif" width="30px"/> My Skills:
