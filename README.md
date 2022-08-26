@@ -2,7 +2,7 @@
 <!--(https://github.com/theSwapnilZambare/theswapnilzambare/blob/main/img/header.png) -->
 
    Hi there, my name is <b>Swapnil Zambare </b>
-<!-- #### I am Certified Salesforce Developer | Double Star Trailhead Ranger | 3x Superbadges | 250+ Badges -->
+<!-- #### I am Certified Salesforce Developer | Double Star Trailhead Ranger | 4x Superbadges | 260+ Badges -->
  Salesforce Developer | Salesforce Administrator
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Certified+Salesforce+Developer;Double+Star+Trailhead+Ranger;Trailhead+3x+Superbadges)](https://git.io/typing-svg)
 
