@@ -69,6 +69,6 @@
 
 <p><b> &#9749; Latest Swapnil SFDC Blogs</b></p>
 
-<a target="_blank" href="https://swapnilsfdc.blogspot.com/2022/03/Salesforce-Admin-Interview-Questions-and-Answers.html"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhv6tW4KATWqRIwNzgxW9PV-dJcVf1rUA5Tfe_QQUeRyXLEQmB74mUfQS9wbVSrIDyFzOkyTWTRKuy3uAo5mMuQdCB9G2tK9u425HuVZsu2vkY4IGFJ20AUMYlye97ZNkB6PzkUzdjJU3ibdudWzYyVFF-XCKRZwjBkfbKb30ZZe-ecfSdVy8GUET9rRg=s1200" alt="Salesforce Admin Question and Answers">
+<a target="_blank" href="https://swapnilsfdc.blogspot.com/2022/03/Salesforce-Admin-Interview-Questions-and-Answers.html"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEhv6tW4KATWqRIwNzgxW9PV-dJcVf1rUA5Tfe_QQUeRyXLEQmB74mUfQS9wbVSrIDyFzOkyTWTRKuy3uAo5mMuQdCB9G2tK9u425HuVZsu2vkY4IGFJ20AUMYlye97ZNkB6PzkUzdjJU3ibdudWzYyVFF-XCKRZwjBkfbKb30ZZe-ecfSdVy8GUET9rRg=s1200"  height="30" width="40" alt="Salesforce Admin Question and Answers">
 
-<a target="_blank" href="https://swapnilsfdc.blogspot.com/2022/05/SOQL-in-Apex.html"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiG6frDbXGKnbeJ7TaZJ7rFrm6YgtcQI_VGTAp6IQ5U0uo0UrpqvIaBkeWsPTBp4xJmKtrk3JGE4ALt6eOY4dSOhjOH36jQMU0mLU6q7HPYdV9ZuyTjV8jn2gzFDEFzt8wDcnThMFB8siIYH7UD2L3iaF6tWZrrB_9t4dJ08O_MpAv7LSXjvn19tCGlw/s745/SOQL.png" alt="Salesforce SOQL in Apex"> </a>
+<a target="_blank" href="https://swapnilsfdc.blogspot.com/2022/05/SOQL-in-Apex.html"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiG6frDbXGKnbeJ7TaZJ7rFrm6YgtcQI_VGTAp6IQ5U0uo0UrpqvIaBkeWsPTBp4xJmKtrk3JGE4ALt6eOY4dSOhjOH36jQMU0mLU6q7HPYdV9ZuyTjV8jn2gzFDEFzt8wDcnThMFB8siIYH7UD2L3iaF6tWZrrB_9t4dJ08O_MpAv7LSXjvn19tCGlw/s745/SOQL.png"  height="30" width="40" alt="Salesforce SOQL in Apex"> </a>
