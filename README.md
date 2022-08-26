@@ -65,8 +65,6 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=theswapnilzambare&show_icons=true&locale=en&layout=compact" alt="theswapnilzambare" /></p>
 
 
-#### Recent Activity
-
 <p><b> &#9749; Latest Swapnil SFDC Blogs</b></p>
 
 <a target="_blank" href="https://swapnilsfdc.blogspot.com/2022/03/Salesforce-Admin-Interview-Questions-and-Answers.html"><img align="left" src="https://blogger.googleusercontent.com/img/a/AVvXsEhv6tW4KATWqRIwNzgxW9PV-dJcVf1rUA5Tfe_QQUeRyXLEQmB74mUfQS9wbVSrIDyFzOkyTWTRKuy3uAo5mMuQdCB9G2tK9u425HuVZsu2vkY4IGFJ20AUMYlye97ZNkB6PzkUzdjJU3ibdudWzYyVFF-XCKRZwjBkfbKb30ZZe-ecfSdVy8GUET9rRg=s1200" height="30" width="40" alt="Salesforce Admin Question and Answers"> Salesforce Admin Interview Questions and Answers</a>
