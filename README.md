@@ -1,14 +1,15 @@
 
 <!--(https://github.com/theSwapnilZambare/theswapnilzambare/blob/main/img/header.png) -->
 
-   Hi trailblazer, my name is <b>Swapnil Zambare </b>
+   Hi trailblazer, my name is <b>Swapnil Zambare </b> 
 <!-- #### I am Certified Salesforce Developer | Double Star Trailhead Ranger | 4x Superbadges | 260+ Badges -->
  Salesforce Developer | Salesforce Administrator
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Certified+Salesforce+Developer;Double+Star+Trailhead+Ranger;Trailhead+4x+Superbadges)](https://git.io/typing-svg)
 
 <!-- <p align="left">
 <a href="https://theswapnilzambare.github.io/" target="_blank" ><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/theswapnilzambare" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>  <a href="https://twitter.com/swapnilzambare7" target="_blank" ><img src="https://img.shields.io/badge/-Twitter_-blue?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/theswapnilzambare" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/swapnilzambare7" target="_blank" ><img src="https://img.shields.io/badge/-Twitter_-blue?style=flat&logo=Twitter&logoColor=white"/></a>
 </a>
 </p> -->
 
@@ -32,7 +33,8 @@
 
 <!-- ## Find me here:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/theswapnilzambare)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/theswapnilzambare/)    
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/theswapnilzambare)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/theswapnilzambare/)    
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/)   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/)  -->
 
