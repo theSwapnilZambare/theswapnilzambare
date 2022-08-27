@@ -4,7 +4,7 @@
    Hi trailblazer, my name is <b>Swapnil Zambare </b> 
 <!-- #### I am Certified Salesforce Developer | Double Star Trailhead Ranger | 4x Superbadges | 260+ Badges -->
  Salesforce Developer | Salesforce Administrator
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Certified+Salesforce+Developer;Double+Star+Trailhead+Ranger;Trailhead+4x+Superbadges&color=f75c7e&vCenter=true&size=30&pause=1000)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Certified+Salesforce+Developer;Double+Star+Trailhead+Ranger;Trailhead+4x+Superbadges&color=f75c7e&pause=1000)](https://git.io/typing-svg)
 
 <!-- <p align="left">
 <a href="https://theswapnilzambare.github.io/" target="_blank" ><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
