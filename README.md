@@ -5,7 +5,7 @@
 <!-- #### I am Certified Salesforce Developer | Triple Star Trailhead Ranger | 5x Superbadges | 300+ Badges -->
  Salesforce Developer | Salesforce Administrator
  
-<a href="https://www.swapnilzambare.com/"> www.SwapnilZambare.com</a> </a>
+<a href="https://www.swapnilzambare.com/"> [www.SwapnilZambare.com](https://www.swapnilzambare.com)</a> </a>
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Certified+Salesforce+Developer;Triple+Star+Trailhead+Ranger;Trailhead+5x+Superbadges&color=f75c7e&pause=1000)](https://git.io/typing-svg)
 
