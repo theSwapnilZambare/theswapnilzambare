@@ -123,7 +123,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theswapnilzambare&" alt="theswapnilzambare" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=theswapnilzambare&show_icons=true&locale=en&layout=compact" alt="theswapnilzambare" /></p>
+
 
 
 <p><b> &#9749; Latest Swapnil SFDC Blogs</b></p>
