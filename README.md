@@ -2,12 +2,12 @@
 <!--(https://github.com/theSwapnilZambare/theswapnilzambare/blob/main/img/header.png) -->
 
    Hi trailblazer, my name is <b>Swapnil Zambare </b> 
-<!-- #### I am Certified Salesforce Developer | Triple Star Trailhead Ranger | 5x Superbadges | 300+ Badges -->
+<!-- #### I am Certified Salesforce Developer | Double Star Trailhead Ranger | 4x Superbadges | 260+ Badges -->
  Salesforce Developer | Salesforce Administrator
  
-<a href="https://www.swapnilzambare.com/"> [www.SwapnilZambare.com](https://www.swapnilzambare.com)</a> </a>
+<a href="https://www.swapnilzambare.com/"> www.SwapnilZambare.com</a> </a>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Certified+Salesforce+Developer;Triple+Star+Trailhead+Ranger;Trailhead+5x+Superbadges&color=f75c7e&pause=1000)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Certified+Salesforce+Developer;Double+Star+Trailhead+Ranger;Trailhead+4x+Superbadges&color=f75c7e&pause=1000)](https://git.io/typing-svg)
 
 
 <!-- <p align="left">
@@ -87,7 +87,7 @@
 
 <hr>
 
-# <a href="https://theswapnilzambare.github.io/" target="_blank" >theswapnilzambare.github.io</a>
+# <a href="https://www.swapnilzambare.com/"> [www.SwapnilZambare.com](https://www.swapnilzambare.com/)</a> </a>
 
 
 <!-- ## Find me here:
@@ -123,7 +123,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theswapnilzambare&" alt="theswapnilzambare" /></p>
 
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=theswapnilzambare&show_icons=true&locale=en&layout=compact" alt="theswapnilzambare" /></p>
 
 
 <p><b> &#9749; Latest Swapnil SFDC Blogs</b></p>
