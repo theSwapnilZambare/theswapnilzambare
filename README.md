@@ -2,7 +2,7 @@
 <!--(https://github.com/theSwapnilZambare/theswapnilzambare/blob/main/img/header.png) -->
 
    Hi trailblazer, my name is <b>Swapnil Zambare </b> 
-<!-- #### I am Certified Salesforce Developer | Double Star Trailhead Ranger | 4x Superbadges | 260+ Badges -->
+<!-- #### I am 4x Certified Salesforce Developer | Double Star Trailhead Ranger | 4x Superbadges | 260+ Badges -->
  Salesforce Developer | Salesforce Administrator
  
 <a href="https://www.swapnilzambare.com/"> www.SwapnilZambare.com</a> </a>
