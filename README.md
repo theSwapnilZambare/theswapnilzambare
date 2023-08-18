@@ -134,4 +134,4 @@
 
 <a target="_blank" href="https://swapnilzambare.com/blog/soql-salesforce-object-query-language-in-apex/"><img align="left" src="https://swapnilzambare.com/blog/wp-content/uploads/2022/05/SOQL.png"  height="30" width="40" alt="Salesforce SOQL in Apex"> SOQL - Salesforce Object Query Language in Apex</a>
 
-<a target="_blank" href="[https://swapnilsfdc.blogspot.com/2022/05/SOSL-in-Apex.html](https://swapnilzambare.com/blog/sosl-salesforce-object-search-language-in-apex/)"><img align="left" src="https://swapnilzambare.com/blog/wp-content/uploads/2022/05/SOSL.png"  height="30" width="40" alt="Salesforce SOSL in Apex"> SOSL - Salesforce Object Search Language in Apex</a>
+<a target="_blank" href="https://swapnilzambare.com/blog/sosl-salesforce-object-search-language-in-apex/"><img align="left" src="https://swapnilzambare.com/blog/wp-content/uploads/2022/05/SOSL.png"  height="30" width="40" alt="Salesforce SOSL in Apex"> SOSL - Salesforce Object Search Language in Apex</a>
